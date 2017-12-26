@@ -1,0 +1,10 @@
+D:\C#Project\SyntaxAnalyzerWithGUI\SyntaxAnalyzerWithGUI\bin\Debug\SyntaxAnalyzerWithGUI.exe.config
+D:\C#Project\SyntaxAnalyzerWithGUI\SyntaxAnalyzerWithGUI\bin\Debug\SyntaxAnalyzerWithGUI.exe
+D:\C#Project\SyntaxAnalyzerWithGUI\SyntaxAnalyzerWithGUI\bin\Debug\SyntaxAnalyzerWithGUI.pdb
+D:\C#Project\SyntaxAnalyzerWithGUI\SyntaxAnalyzerWithGUI\obj\Debug\SyntaxAnalyzerWithGUI.csprojResolveAssemblyReference.cache
+D:\C#Project\SyntaxAnalyzerWithGUI\SyntaxAnalyzerWithGUI\obj\Debug\SyntaxAnalyzerWithGUI.Form1.resources
+D:\C#Project\SyntaxAnalyzerWithGUI\SyntaxAnalyzerWithGUI\obj\Debug\SyntaxAnalyzerWithGUI.Properties.Resources.resources
+D:\C#Project\SyntaxAnalyzerWithGUI\SyntaxAnalyzerWithGUI\obj\Debug\SyntaxAnalyzerWithGUI.csproj.GenerateResource.Cache
+D:\C#Project\SyntaxAnalyzerWithGUI\SyntaxAnalyzerWithGUI\obj\Debug\SyntaxAnalyzerWithGUI.csproj.CoreCompileInputs.cache
+D:\C#Project\SyntaxAnalyzerWithGUI\SyntaxAnalyzerWithGUI\obj\Debug\SyntaxAnalyzerWithGUI.exe
+D:\C#Project\SyntaxAnalyzerWithGUI\SyntaxAnalyzerWithGUI\obj\Debug\SyntaxAnalyzerWithGUI.pdb
